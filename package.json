@@ -1,0 +1,20 @@
+{
+  "name": "temporary_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipecb/temporary_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipecb/temporary_repo/issues"
+  },
+  "homepage": "https://github.com/philipecb/temporary_repo#readme"
+}

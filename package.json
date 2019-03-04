@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/philipecb/temporary_repo/issues"
   },
-  "homepage": "https://github.com/philipecb/temporary_repo#readme",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "homepage": "https://github.com/philipecb/temporary_repo#readme"
 }

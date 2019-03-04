@@ -1,5 +1,3 @@
-A minimalist Node.js RESTful API with Express, Mongoose &amp; MongoDB.
-
 Technologies:
   Node
   Express
